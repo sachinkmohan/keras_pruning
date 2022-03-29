@@ -1,0 +1,15 @@
+
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# Pycharm 
+.idea
+
+# Trained files
+*.h5
+*.pb
+*.trt
+*.plan
+
+
